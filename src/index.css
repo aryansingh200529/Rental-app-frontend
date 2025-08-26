@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+/* src/assets/index.css */
+
+/* If you're using Tailwind, include: */
+
+/* Optional: some light defaults */
+html, body, #root {
+  height: 100%;
+}
